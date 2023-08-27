@@ -8,5 +8,5 @@ How to setup a dev server
 ```
 npm init
 npm install webpack webpack-cli --save-dev
-
+npm run build
 ```
